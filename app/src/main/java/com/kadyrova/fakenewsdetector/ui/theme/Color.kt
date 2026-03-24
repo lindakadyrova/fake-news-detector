@@ -9,3 +9,5 @@ val BackgroundDark = Color(0xFF121212)
 val SurfaceDark = Color(0xFF1E1E1E)
 val OnSurface = Color(0xFFE0E0E0)
 val White = Color(0xFFFFFFFF)
+
+val Black = Color(0xFF000000)
